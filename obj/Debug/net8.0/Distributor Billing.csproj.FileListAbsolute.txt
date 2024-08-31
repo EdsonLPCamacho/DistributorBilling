@@ -1,0 +1,14 @@
+C:\CHALLENGE\Distributor Billing\bin\Debug\net8.0\Distributor Billing.exe
+C:\CHALLENGE\Distributor Billing\bin\Debug\net8.0\Distributor Billing.deps.json
+C:\CHALLENGE\Distributor Billing\bin\Debug\net8.0\Distributor Billing.runtimeconfig.json
+C:\CHALLENGE\Distributor Billing\bin\Debug\net8.0\Distributor Billing.dll
+C:\CHALLENGE\Distributor Billing\bin\Debug\net8.0\Distributor Billing.pdb
+C:\CHALLENGE\Distributor Billing\obj\Debug\net8.0\Distributor Billing.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHALLENGE\Distributor Billing\obj\Debug\net8.0\Distributor Billing.AssemblyInfoInputs.cache
+C:\CHALLENGE\Distributor Billing\obj\Debug\net8.0\Distributor Billing.AssemblyInfo.cs
+C:\CHALLENGE\Distributor Billing\obj\Debug\net8.0\Distributor Billing.csproj.CoreCompileInputs.cache
+C:\CHALLENGE\Distributor Billing\obj\Debug\net8.0\Distributor Billing.dll
+C:\CHALLENGE\Distributor Billing\obj\Debug\net8.0\refint\Distributor Billing.dll
+C:\CHALLENGE\Distributor Billing\obj\Debug\net8.0\Distributor Billing.pdb
+C:\CHALLENGE\Distributor Billing\obj\Debug\net8.0\Distributor Billing.genruntimeconfig.cache
+C:\CHALLENGE\Distributor Billing\obj\Debug\net8.0\ref\Distributor Billing.dll
